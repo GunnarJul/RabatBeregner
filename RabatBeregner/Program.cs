@@ -16,6 +16,7 @@ namespace RabatBeregner
 
     public class Rabatberegner
     {
+     
         public double GetPrisEfterRabat(int antalVarer, double stykPris)
         { 
             var prisRabat = 0.03;
